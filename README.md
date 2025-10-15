@@ -1,3 +1,3 @@
 # Git-Project
 I'll put my first project over here
-i have added gitignoree and license file as well
+i have added gitignore and license file as well
